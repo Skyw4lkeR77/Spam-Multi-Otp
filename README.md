@@ -10,5 +10,5 @@ $ git clone https://github.com/Skyw4lkeR77/Spam-Multi-Otp
 ## Eksekusi
 ```python3
 $ cd Spam-Multi-Otp
-$ python3 spam.py
+$ python3 run.py
 ```
